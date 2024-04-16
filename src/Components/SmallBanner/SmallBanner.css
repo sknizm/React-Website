@@ -1,0 +1,10 @@
+.small-banner{
+    padding: 50px 80px;
+}
+.title-box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.small-banner-list{
+}

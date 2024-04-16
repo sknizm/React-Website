@@ -1,0 +1,10 @@
+.small-banner-card{
+    border: 1px solid #000;
+    border-radius: 10px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    height: 300px;
+    margin: 10px;
+    background: #121212;
+    padding: 10px 20px;}

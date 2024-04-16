@@ -1,0 +1,19 @@
+.saved-card{
+    border: 1px solid #000;
+    border-radius: 10px;
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin: 0 10px;
+}
+.saved-card .img-box{
+    border-radius: 10px;
+    background: #535353;
+    width: 100px;
+    margin-right: 20px;
+}
+
+.saved-card img{
+    width: 100%;
+}

@@ -1,0 +1,15 @@
+.category{
+    padding: 60px;
+}
+.category-list{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    place-items: center;
+}
+.category-icon{
+    margin: 20px 0;
+    height: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
