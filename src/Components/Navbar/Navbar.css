@@ -1,0 +1,32 @@
+.navbar{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: #c3c3c3;
+    width: 100%;
+    padding: 10px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+.option{
+    margin: 0;
+    border: 1px solid #1c1c1c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+.option:hover{
+    background: #1c1c1c;
+    border: 1px solid #c6c6c6;
+}
+.option:hover .icons{
+    color:#c6c6c6;
+}
+.navbar .icons{
+    font-size: 30px;
+    transition: 0.2s;
+}
